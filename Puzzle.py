@@ -42,7 +42,6 @@ def solve_puzzle(Board, Source, Destination):
     while(queue):
         current, step, path = queue.popleft()
         for direction in ["L", "R", "U", "D"]:
-            # print(direction)
             legal, nextStop = getNextCoordinates(current, direction)
             if not legal:
                 continue
