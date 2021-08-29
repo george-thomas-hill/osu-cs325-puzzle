@@ -2,7 +2,7 @@
 
 ![A screenshot of this program's code.](http://georgethomashill.com/gh/osu/cs325/cs325-puzzle-screenshot-code.png)
 
-![A screenshot of this program's output.](http://georgethomashill.com/gh/osu/cs325/cs325-puzzle-screenshot-output.png)]
+![A screenshot of this program's output.](http://georgethomashill.com/gh/osu/cs325/cs325-puzzle-screenshot-output.png)
 
 CS 325 was Oregon State University's Analysis of Algorithms course.
 
